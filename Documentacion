@@ -1,0 +1,2 @@
+Este es un proyecto que proporciona una API utilizando Flask , disculpe profe yo monte el archivo donde est mi api intente subir los demas pero no me debaja y pobre en el cliente de postman y me ejecuta y me sale en formato JSON
+este el url de mi api (http://127.0.0.1:5000/api/personas)  Este endpoint devuelve una lista de nombres de personas en este caso los nombres que estan en mi codigo 
